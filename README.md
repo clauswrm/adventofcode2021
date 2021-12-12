@@ -4,11 +4,13 @@ Puzzle solutions written in Python. Solutions are presented as they were when th
 
 My goal was to solve the problems as fast as possible, not to write the most efficient solution.
 
-## Prepare solutions
+![Santa Claus](https://emoji.slack-edge.com/T1VUPAA9W/santa-claus/5c8ac550d808af79.jpg)
+
+## Solve puzzles
 
 Create a `.env` file with the content `SESSION_COOKIE=<your_aoc_session_cookie>`. Your session cookie can be found in your browser.
 
-Run `./src/aoc.sh <day>` to create new puzzle solution folder with and download the input from adventofcode.com.
+Run `./src/aoc.sh <day>` to create a new puzzle folder with a `main.py` file containing starter code and `data.txt` containing the input of the day.
 
 ## Run solutions
 
